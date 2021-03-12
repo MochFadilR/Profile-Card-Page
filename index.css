@@ -1,0 +1,18 @@
+body {
+    background-color: #19A1AD;
+    background-image: url('./images/bg-pattern-top.svg') no-repeat;
+}
+
+#card {
+    width: 25%;
+    height: 50%;
+    background-color: white;
+    text-align: center;
+    margin: 25% auto;
+    border-radius: 1.5rem;
+}
+
+#card-top {
+    background-image: url('./images/bg-pattern-card.svg');
+    /* height: 2rem; */
+}
